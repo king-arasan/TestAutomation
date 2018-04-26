@@ -8,5 +8,13 @@
     <artifactId>TestAutomation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    
+    <dependencies>
+
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-core</artifactId>
+            <version>1.2.4</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>
